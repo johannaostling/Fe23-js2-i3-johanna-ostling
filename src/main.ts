@@ -15,11 +15,11 @@ async function handleform(event: Event) {
   console.log(userinput);
   searchresult(userinput);
 }
-async function searchresult(userinput) {
+async function searchresult(userinput:string) {
   let searchurl: string = baseurl + "/search?q=" + userinput;
   const res = await fetch(searchurl);
   const data = await res.json();
-  const products = data.products;
+  const products:string = data.products;
 //   console.log(products);
   display(products);
 }
@@ -28,7 +28,9 @@ const showingResultDiv = document.querySelector(
   "#showingResultDiv"
 ) as HTMLDivElement;
 
-async function display(products) {
+// type arr= [string, string]
+
+async function display(products){
   showingResultDiv.innerHTML = "";
   console.log(products[0].title);
 
@@ -56,7 +58,7 @@ async function display(products) {
 
     stockEl.innerText = stock;
     if (stock <= 10) {
-      stockEl.innerText = stock + "(VARNING: few left)";
+      stockEl.innerText = stock + " (VARNING: few left)";
     }
 
     categoryEl.innerText = category;

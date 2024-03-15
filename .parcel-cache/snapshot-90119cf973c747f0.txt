@@ -37,7 +37,7 @@
 126C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\caniuse-lite\data\features\page-transition-events.js133543729035531003 0
 102C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\svgo\plugins\cleanupAttrs.js133543729022716207 0
 128C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\read-pkg-up\node_modules\type-fest\source\mutable.d.ts133543731729151648 0
-65C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\dist133549803250482487 1
+65C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\dist133549823345467963 1
 120C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\electron-to-chromium\full-chromium-versions.js133543729014746394 0
 151C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-arm64-gnu.node133543729024089796 0
 87C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\nth-check\lib133549685065288812 1
@@ -51,7 +51,7 @@
 89C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\aggregate-error133549685001175654 1
 116C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\caniuse-lite\data\features\do-not-track.js133543729030990967 0
 95C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\inherits\package.json133543731726692149 0
-72C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\src\main.ts133549803282484712 0
+72C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\src\main.ts133549823344973379 0
 97C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\to-regex-range\index.js133543729013525417 0
 112C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\posthtml-parser\dist\chunk.T6SARJYH.js133543729013747584 0
 116C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\reusify\benchmarks\createNoCodeFunction.js133543731728417888 0
@@ -1322,7 +1322,7 @@
 112C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\term-size\vendor\windows\term-size.exe133543729016325538 0
 133C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\lmdb\dependencies\lz4\lib\dll\example\fullbench-dll.vcxproj133543729028441945 0
 106C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\svgo\plugins\removeDimensions.js133543729024750708 0
-87C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\dist\index.b7a05eb9.js.map133549803248437915 0
+87C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\dist\index.b7a05eb9.js.map133549823345467963 0
 159C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\subselects.js133543729018785689 0
 106C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\term-size\vendor\macos\.DS_Store133543729013938676 0
 105C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\caniuse-lite\data\regions\AD.js133543729016967406 0
@@ -6781,5 +6781,5 @@
 83C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\.bin\svgo133543729041117276 0
 87C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\.bin\svgo.ps1133543729041117276 0
 101C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\.bin\update-browserslist-db133543729041117276 0
-83C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\dist\index.b7a05eb9.js133549803248437915 0
-76C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\dist\index.html133549803250482487 0
+76C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\dist\index.html133549822899851121 0
+83C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\dist\index.b7a05eb9.js133549823345415763 0

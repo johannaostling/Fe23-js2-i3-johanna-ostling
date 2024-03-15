@@ -604,6 +604,7 @@ async function searchresult(userinput) {
     display(products);
 }
 const showingResultDiv = document.querySelector("#showingResultDiv");
+// type arr= [string, string]
 async function display(products) {
     showingResultDiv.innerHTML = "";
     console.log(products[0].title);
@@ -627,7 +628,7 @@ async function display(products) {
         descriptionEl.innerText = description;
         ratingEl.innerText = rating;
         stockEl.innerText = stock;
-        if (stock <= 10) stockEl.innerText = stock + "(VARNING: few left)";
+        if (stock <= 10) stockEl.innerText = stock + " (VARNING: few left)";
         categoryEl.innerText = category;
         cartBtn.innerText = "add to cart";
         const productbox = document.createElement("div");
