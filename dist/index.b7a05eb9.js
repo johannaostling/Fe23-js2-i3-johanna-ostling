@@ -586,6 +586,22 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 },{}],"jeorp":[function(require,module,exports) {
 const baseurl = "https://dummyjson.com/products";
 fetch(baseurl).then((res)=>res.json()).then(console.log);
+const formEl = document.querySelector("form");
+formEl.addEventListener("submit", handleform);
+async function handleform(event) {
+    event.preventDefault();
+    console.log("i handleForm");
+    const userinput = document.querySelector("input").value;
+    console.log(userinput);
+    searchresult(userinput);
+}
+async function searchresult(userinput) {
+    let searchurl = baseurl + "/search?q=" + userinput;
+    const res = await fetch(searchurl);
+    const data = await res.json();
+    const products = data.products;
+    console.log(products);
+}
 
 },{}]},["dZI1r","jeorp"], "jeorp", "parcelRequire7992")
 
