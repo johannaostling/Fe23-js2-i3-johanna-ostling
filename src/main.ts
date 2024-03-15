@@ -19,8 +19,7 @@ async function searchresult(userinput:string) {
   let searchurl: string = baseurl + "/search?q=" + userinput;
   const res = await fetch(searchurl);
   const data = await res.json();
-  const products:string = data.products;
-//   console.log(products);
+  const products:Product[] = data.products;
   display(products);
 }
 
@@ -28,20 +27,21 @@ const showingResultDiv = document.querySelector(
   "#showingResultDiv"
 ) as HTMLDivElement;
 
-// type arr= [string, string]
+type Product= {
+    images: string[],
+    title: string,
+    description: string,
+    rating: number,
+    stock: number,
+    category: string
+}
 
-async function display(products){
+async function display(products:Product[]){
   showingResultDiv.innerHTML = "";
-  console.log(products[0].title);
 
     for(const product of products)
     {console.log(product)
-    const img = product.images[0]
-    const title = product.title;
-    const description = product.description;
-    const rating = product.rating;
-    const stock = product.stock;
-    const category = product.category;
+    const {images, title, description, rating, stock, category} = product
 
     const imgEl= document.createElement('img')
     const titelEl = document.createElement("h1");
@@ -51,12 +51,12 @@ async function display(products){
     const categoryEl = document.createElement("p");
     const cartBtn = document.createElement("button");
 
-    imgEl.src = img
+    imgEl.src = images[0]
     titelEl.innerText = title;
     descriptionEl.innerText = description;
-    ratingEl.innerText = rating;
+    ratingEl.innerText = rating.toString();
 
-    stockEl.innerText = stock;
+    stockEl.innerText = stock.toString();
     if (stock <= 10) {
       stockEl.innerText = stock + " (VARNING: few left)";
     }
@@ -77,17 +77,3 @@ async function display(products){
     showingResultDiv.append(productbox)
   } 
 }
-
-// function displaysearchedmovie(list) {
-//     console.log(list);
-//     showingResultsDiv.innerHTML = "";
-//     if (list.results.length === 0) {
-//       const h1El = document.createElement("h1");
-//       h1El.innerText = "None found, check spelling";
-//       showingResultsDiv.append(h1El);
-//     } else {
-//         boxDiv.append(posterImg, titelEl, aboutEl);
-//         showingResultsDiv.append(boxDiv);
-//       }
-//     }
-//   }

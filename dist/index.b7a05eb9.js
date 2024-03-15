@@ -600,22 +600,14 @@ async function searchresult(userinput) {
     const res = await fetch(searchurl);
     const data = await res.json();
     const products = data.products;
-    //   console.log(products);
     display(products);
 }
 const showingResultDiv = document.querySelector("#showingResultDiv");
-// type arr= [string, string]
 async function display(products) {
     showingResultDiv.innerHTML = "";
-    console.log(products[0].title);
     for (const product of products){
         console.log(product);
-        const img = product.images[0];
-        const title = product.title;
-        const description = product.description;
-        const rating = product.rating;
-        const stock = product.stock;
-        const category = product.category;
+        const { images, title, description, rating, stock, category } = product;
         const imgEl = document.createElement("img");
         const titelEl = document.createElement("h1");
         const descriptionEl = document.createElement("p");
@@ -623,11 +615,11 @@ async function display(products) {
         const stockEl = document.createElement("p");
         const categoryEl = document.createElement("p");
         const cartBtn = document.createElement("button");
-        imgEl.src = img;
+        imgEl.src = images[0];
         titelEl.innerText = title;
         descriptionEl.innerText = description;
-        ratingEl.innerText = rating;
-        stockEl.innerText = stock;
+        ratingEl.innerText = rating.toString();
+        stockEl.innerText = stock.toString();
         if (stock <= 10) stockEl.innerText = stock + " (VARNING: few left)";
         categoryEl.innerText = category;
         cartBtn.innerText = "add to cart";
@@ -635,19 +627,7 @@ async function display(products) {
         productbox.append(imgEl, titelEl, descriptionEl, ratingEl, stockEl, categoryEl, cartBtn);
         showingResultDiv.append(productbox);
     }
-} // function displaysearchedmovie(list) {
- //     console.log(list);
- //     showingResultsDiv.innerHTML = "";
- //     if (list.results.length === 0) {
- //       const h1El = document.createElement("h1");
- //       h1El.innerText = "None found, check spelling";
- //       showingResultsDiv.append(h1El);
- //     } else {
- //         boxDiv.append(posterImg, titelEl, aboutEl);
- //         showingResultsDiv.append(boxDiv);
- //       }
- //     }
- //   }
+}
 
 },{}]},["dZI1r","jeorp"], "jeorp", "parcelRequire7992")
 
