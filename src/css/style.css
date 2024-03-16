@@ -5,24 +5,27 @@ form{
 
 }
 header{
-    background-color: black;
+    background-image: linear-gradient(black, white);
     color: antiquewhite;
     text-align: center;
     margin-bottom: 20px;
 }
+h1{
+    padding-top: 10px;
+}
 #showingResultDiv
 {
-    width: 100%;
     font-style: oblique;
     text-align: center;
     border-style: none;
+    box-shadow: none;
 
 }
 div{
     margin-bottom: 10px;
     padding-bottom: 10px;
     padding-top: 10px;
-    width: 45%;
+    max-width: 100%;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     
 }
@@ -30,9 +33,6 @@ img{
     width: 80%;
 }
 button{
-    background-color: lightgreen;
+    background-image: linear-gradient(green, white);
 
-}
-button:hover{
-    background-color: green;
 }

@@ -7,19 +7,23 @@ form {
 header {
   color: #faebd7;
   text-align: center;
-  background-color: #000;
+  background-image: linear-gradient(#000, #fff);
   margin-bottom: 20px;
+}
+
+h1 {
+  padding-top: 10px;
 }
 
 #showingResultDiv {
   text-align: center;
+  box-shadow: none;
   border-style: none;
-  width: 100%;
   font-style: oblique;
 }
 
 div {
-  width: 45%;
+  max-width: 100%;
   margin-bottom: 10px;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -31,10 +35,6 @@ img {
 }
 
 button {
-  background-color: #90ee90;
-}
-
-button:hover {
-  background-color: green;
+  background-image: linear-gradient(green, #fff);
 }
 /*# sourceMappingURL=index.c92073ef.css.map */

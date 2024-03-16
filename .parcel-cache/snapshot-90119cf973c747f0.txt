@@ -1,4 +1,10 @@
 6788
+123C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\@parcel\runtime-js\lib\helpers\node\css-loader.js133543729018437137 0
+115C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\entities\lib\generated\decode-data-xml.js133543729016139979 0
+101C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\lightningcss\node\index.mjs133543729019004697 0
+106C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\spdx-license-ids\deprecated.json133543731726645737 0
+134C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\lightningcss-win32-x64-msvc\lightningcss.win32-x64-msvc.node133543729026895519 0
+92C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\css-tree\cjs\utils133549685030662279 1
 109C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\css-tree\cjs\syntax\node\Number.cjs133543729026018680 0
 130C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\@swc\helpers\esm\_class_static_private_field_spec_get.js133543729027170605 0
 130C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\030-config.md133543729024329464 0
@@ -37,7 +43,7 @@
 126C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\caniuse-lite\data\features\page-transition-events.js133543729035531003 0
 102C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\svgo\plugins\cleanupAttrs.js133543729022716207 0
 128C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\read-pkg-up\node_modules\type-fest\source\mutable.d.ts133543731729151648 0
-65C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\dist133550619065901461 1
+65C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\dist133550628660741791 1
 120C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\electron-to-chromium\full-chromium-versions.js133543729014746394 0
 151C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-arm64-gnu.node133543729024089796 0
 87C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\nth-check\lib133549685065288812 1
@@ -81,7 +87,7 @@
 98C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\js-yaml\lib\type\bool.js133543729014523975 0
 97C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\node-addon-api\index.js133543729019845407 0
 114C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\css-select\node_modules\entities\lib\esm133549685028056095 1
-75C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\src\index.html133550609046809294 0
+75C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\src\index.html133550625628798048 0
 92C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\is-extglob\LICENSE133543729014182195 0
 116C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\caniuse-lite\data\features\border-image.js133543729025229687 0
 132C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\@babel\code-frame\node_modules\supports-color\package.json133543729013108047 0
@@ -112,7 +118,7 @@
 108C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\lmdb\dependencies\lz4\lib\xxhash.h133543729027348357 0
 92C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\commander\index.js133543729014309384 0
 136C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\camelcase-keys\node_modules\type-fest\source\package-json.d.ts133543731729231387 0
-78C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\src\css\style.css133550619065630294 0
+78C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\src\css\style.css133550628660324297 0
 91C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\@parcel\graph\src133549684962005435 1
 123C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\@swc\helpers\src\_is_native_reflect_construct.mjs133543729032019993 0
 101C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\type-fest\source\entry.d.ts133543729018972594 0
@@ -146,12 +152,6 @@
 132C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\l10n\css.json133543729018131201 0
 99C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\svgo\plugins\prefixIds.js133543729024378476 0
 107C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\entities\lib\encode-trie.d.ts.map133543729019905997 0
-121C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\@parcel\core\test\fixtures\glob-like\[entry].js133543729020126976 0
-160C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\index.d.ts.map133543729020443721 0
-90C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\dotenv\README.md133543729015795794 0
-82C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\entities133549685045424479 1
-135C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\@parcel\package-manager\test\validateModuleSpecifiers.test.js133543729021904855 0
-98C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\term-size\vendor\windows133549685076774430 1
 97C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\is-arrayish\.travis.yml133543729017014480 0
 126C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\@babel\highlight\node_modules\color-convert\route.js133543729016779262 0
 105C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\svgo\plugins\applyTransforms.js133543729022646011 0
@@ -370,6 +370,12 @@
 116C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\read-pkg-up\node_modules\type-fest\license133543731726807609 0
 102C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\@parcel\workers\src\index.js133543729020614332 0
 94C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\kind-of\CHANGELOG.md133543731727796938 0
+121C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\@parcel\core\test\fixtures\glob-like\[entry].js133543729020126976 0
+160C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\index.d.ts.map133543729020443721 0
+90C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\dotenv\README.md133543729015795794 0
+82C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\entities133549685045424479 1
+135C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\@parcel\package-manager\test\validateModuleSpecifiers.test.js133543729021904855 0
+98C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\term-size\vendor\windows133549685076774430 1
 111C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\@parcel\workers\test\cpuCount.test.js133543729019746971 0
 82C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\error-ex133549685045517440 1
 98C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\fast-glob\out\index.d.ts133543731729355327 0
@@ -1326,7 +1332,7 @@
 112C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\term-size\vendor\windows\term-size.exe133543729016325538 0
 133C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\lmdb\dependencies\lz4\lib\dll\example\fullbench-dll.vcxproj133543729028441945 0
 106C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\svgo\plugins\removeDimensions.js133543729024750708 0
-87C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\dist\index.b7a05eb9.js.map133550618698316638 0
+87C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\dist\index.b7a05eb9.js.map133550628058652121 0
 159C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\subselects.js133543729018785689 0
 106C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\term-size\vendor\macos\.DS_Store133543729013938676 0
 105C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\caniuse-lite\data\regions\AD.js133543729016967406 0
@@ -1566,10 +1572,6 @@
 88C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\srcset\license133543729012893315 0
 93C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\srcset\package.json133543729014230747 0
 116C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\posthtml\node_modules\posthtml-parser\dist133549685067868883 1
-123C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\@parcel\runtime-js\lib\helpers\node\css-loader.js133543729018437137 0
-115C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\entities\lib\generated\decode-data-xml.js133543729016139979 0
-101C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\lightningcss\node\index.mjs133543729019004697 0
-106C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\spdx-license-ids\deprecated.json133543731726645737 0
 96C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\run-parallel\README.md133543731727860264 0
 101C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\spdx-license-ids\index.json133543731727026003 0
 104C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\spdx-expression-parse\index.js133543731727360762 0
@@ -2213,8 +2215,6 @@
 126C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\csso\node_modules\css-tree\lib\syntax\scope\index.js133543729029200166 0
 99C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\parcel\src\.eslintrc.json133543729016706596 0
 91C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\parcel\src\bin.js133543729014637868 0
-100C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\caniuse-lite\dist\unpacker133549685021496141 1
-141C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages133543729041097271 0
 91C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\parcel\src\cli.js133543729016240449 0
 92C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\p-map\package.json133543731727491254 0
 110C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\caniuse-lite\data\features\dialog.js133543729030892133 0
@@ -2386,6 +2386,8 @@
 148C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\optional.js133543729015682933 0
 146C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\README.md133543729016695901 0
 103C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\csso\lib\restructure\index.js133543729025459934 0
+100C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\caniuse-lite\dist\unpacker133549685021496141 1
+141C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages133543729041097271 0
 105C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\caniuse-lite\data\regions\EC.js133543729031260229 0
 91C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\@parcel\cache\src133549684956095573 1
 150C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-optional133543729041128769 0
@@ -2868,7 +2870,6 @@
 101C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\lines-and-columns\README.md133543729015031571 0
 106C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\lines-and-columns\build\index.js133543729013721630 0
 116C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\caniuse-lite\data\features\inline-block.js133543729033090618 0
-134C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\lightningcss-win32-x64-msvc\lightningcss.win32-x64-msvc.node133543729026895519 0
 102C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\@parcel\utils\src\urlJoin.js133543729025425932 0
 124C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\css-select\node_modules\entities\lib\escape.js.map133543729023335490 0
 88C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\globby\license133543731726807609 0
@@ -4155,7 +4156,6 @@
 138C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\lexer\search.js133543729026795174 0
 92C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\css-tree\cjs\lexer133549685028921636 1
 93C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\css-tree\cjs\parser133549685028982810 1
-92C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\css-tree\cjs\utils133549685030662279 1
 115C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\css-tree\cjs\syntax\node\FeatureRange.cjs133543729022946918 0
 105C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\caniuse-lite\data\regions\KP.js133543729033851884 0
 98C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\css-tree\cjs\version.cjs133543729027497655 0
@@ -5288,7 +5288,7 @@
 139C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\@parcel\core\test\fixtures\library-custom-scopehoist\package.json133543729029494877 0
 104C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\@swc\helpers\_\_inherits_loose133549684992097220 1
 117C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\@swc\helpers\_\_initializer_define_property133549684992117450 1
-84C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\dist\index.c92073ef.css133550619065821270 0
+84C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\dist\index.c92073ef.css133550628660645801 0
 106C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\@parcel\packager-js\src\index.js133543729019205739 0
 116C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\@swc\helpers\_\_initializer_warning_helper133549684992170462 1
 100C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\@swc\helpers\_\_instanceof133549684992206453 1
@@ -6784,6 +6784,6 @@
 83C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\.bin\svgo133543729041117276 0
 87C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\.bin\svgo.ps1133543729041117276 0
 101C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\node_modules\.bin\update-browserslist-db133543729041117276 0
-83C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\dist\index.b7a05eb9.js133550618698234122 0
-76C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\dist\index.html133550618698234122 0
-88C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\dist\index.c92073ef.css.map133550619065901461 0
+76C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\dist\index.html133550628058617780 0
+83C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\dist\index.b7a05eb9.js133550628058632016 0
+88C:\Users\slend\Desktop\uppgift 3\Fe23-js2-i3-johanna-ostling\dist\index.c92073ef.css.map133550628660741791 0
