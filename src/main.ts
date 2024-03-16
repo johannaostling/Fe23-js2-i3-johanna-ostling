@@ -1,3 +1,4 @@
+
 const baseurl: string = "https://dummyjson.com/products";
 fetch(baseurl)
   .then((res) => res.json())
@@ -5,6 +6,7 @@ fetch(baseurl)
 
 const formEl = document.querySelector("form") as HTMLFormElement;
 
+//Listener for when someone submit
 formEl.addEventListener("submit", handleform);
 async function handleform(event: Event) {
   event.preventDefault();
@@ -15,6 +17,8 @@ async function handleform(event: Event) {
   console.log(userinput);
   searchresult(userinput);
 }
+
+//Result of searched submit
 async function searchresult(userinput:string) {
   let searchurl: string = baseurl + "/search?q=" + userinput;
   const res = await fetch(searchurl);
@@ -35,7 +39,7 @@ type Product= {
     stock: number,
     category: string
 }
-
+//Display function
 async function display(products:Product[]){
   showingResultDiv.innerHTML = "";
 
