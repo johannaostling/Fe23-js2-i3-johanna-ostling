@@ -1,0 +1,40 @@
+form {
+  justify-content: flex-end;
+  width: 100%;
+  display: flex;
+}
+
+header {
+  color: #faebd7;
+  text-align: center;
+  background-color: #000;
+  margin-bottom: 20px;
+}
+
+#showingResultDiv {
+  text-align: center;
+  border-style: none;
+  width: 100%;
+  font-style: oblique;
+}
+
+div {
+  width: 45%;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  box-shadow: 0 5px 15px #00000059;
+}
+
+img {
+  width: 80%;
+}
+
+button {
+  background-color: #90ee90;
+}
+
+button:hover {
+  background-color: green;
+}
+/*# sourceMappingURL=index.c92073ef.css.map */
