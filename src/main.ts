@@ -8,7 +8,7 @@ const formEl = document.querySelector("form") as HTMLFormElement;
 
 //Listener for when someone submit
 formEl.addEventListener("submit", handleform);
-async function handleform(event: Event) {
+function handleform(event: Event): void {
   event.preventDefault();
   console.log("i handleForm");
   const userinput: string = (
@@ -19,12 +19,14 @@ async function handleform(event: Event) {
 }
 
 //Result of searched submit
-async function searchresult(userinput:string) {
+async function searchresult(userinput:string): Promise<Product[]> {
   let searchurl: string = baseurl + "/search?q=" + userinput;
   const res = await fetch(searchurl);
   const data = await res.json();
   const products:Product[] = data.products;
+  console.log(products)
   display(products);
+  return products as Product[]
 }
 
 const showingResultDiv = document.querySelector(
@@ -40,7 +42,7 @@ type Product= {
     category: string
 }
 //Display function
-async function display(products:Product[]){
+function display(products:Product[]): void{
   showingResultDiv.innerHTML = "";
 
     for(const product of products)
